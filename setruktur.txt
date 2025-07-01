@@ -1,0 +1,12 @@
+README.md
+targets.md
+methodology.md
+DISCLAIMER.md
+results/
+  ├── brights_co_id.md
+  ├── simpegbkpsdm.md
+  ├── sippaten.md
+  └── citigov.md
+screenshots/
+  ├── brights_403.png
+  └── simpeg_login.png
